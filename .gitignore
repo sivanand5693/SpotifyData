@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 spotify_config.py
+spydertesting.py
 __pycache__
